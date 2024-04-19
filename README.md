@@ -21,7 +21,7 @@ If they choose to continue, they can add multiple employees; if they choose to s
 
 ![Website Screenshot](./Assets/website-screenshot3.png)
 
-If the user right-clicks the mouse or presses Ctrl+Shift+I to open the development tools, they can click on the console to see additional information.
+If the user right-clicks the mouse and clicks inspect or presses Ctrl+Shift+I to open the development tools, they can click on the console to see additional information.
 
 ![Website Screenshot](./Assets/website-screenshot4.png)
 
