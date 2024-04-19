@@ -1,7 +1,7 @@
 # Employee Payroll Tracker
 
 ## Description
-This website serves as a tool to create a payroll table by requesting user information and displaying it on the screen. The code was refactored by a boot camp student as part of a project to make the website function properly. The site will gather data that it will later use to calculate the average salary of the added employees. Additionally, the website will choose a random first and last name and announce it as a winner.
+This [website](https://jorge-baldovinos.github.io/Employee-Payroll-Tracker/) serves as a tool to create a payroll table by requesting user information and displaying it on the screen. The code was refactored by a boot camp student as part of a project to make the website function properly. The site will gather data that it will later use to calculate the average salary of the added employees. Additionally, the website will choose a random first and last name and announce it as a winner.
 
 ## Usage
 
